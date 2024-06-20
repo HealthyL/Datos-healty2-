@@ -174,22 +174,4 @@
       "steps5": "5. Hip Thrusts: Lie on your back with your feet flat on the ground, lift your hips towards the ceiling, and return to the starting position. Repeat 12 times.",
       "steps6": "6. Calf Raises: Stand with your feet shoulder-width apart, lift your heels off the ground, and return to the starting position. Repeat 12 times."
     }
-  ],
-  "plans": [
-    {
-      "id": 1,
-      "name": "Nutri Plan",
-      "description": "Un enfoque integral para la nutrición que no solo se centra en la alimentación, sino también en la importancia del equilibrio emocional y el bienestar mental para una vida plena y saludable."
-    },
-    {
-      "id": 2,
-      "name": "Fit Plan",
-      "description": "Se enfoca exclusivamente en proporcionar planes de entrenamiento, rutinas, consejos de ejercicio y seguimiento de progreso para ayudar a las personas a alcanzar sus metas fitness."
-    },
-    {
-      "id": 3,
-      "name": "Nutri Fit Plan",
-      "description": "Combina lo mejor de ambos mundos, planes de entrenamiento personalizados, y asesoramiento experto sobre nutrición, recetas saludables y seguimiento de progreso integral para lograr resultados óptimos."
-    }
-  ]
 }
